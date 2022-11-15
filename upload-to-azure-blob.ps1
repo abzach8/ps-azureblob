@@ -1,20 +1,12 @@
 <#
-
 Name: Upload-To-Storage-Container.ps1
 Version: 2
 Author: Abbia Zacharia
-
-Purpose: 
-Upload local files to Azure storage container
-
+Purpose: Upload local files to Azure storage container
 Description:
-
 Version Control:
-
 Prerequisites:
-
 Configurations:
-
 #>
 
 #==================================================================================
